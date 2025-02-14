@@ -1,5 +1,9 @@
 COVID-19 Data Analysis and Visualization
+
 Overview
+You can explore the interactive visualizations on Tableau Public here:
+https://public.tableau.com/views/CovidDashboard_17395280985950/Dashboard1?:language=en-US&publish=yes&:sid=6F4A897C346B41A89BD04EA20265074D-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 This project focuses on analyzing COVID-19 data to understand the impact of the pandemic across different regions, countries, and continents. The analysis includes examining total cases, total deaths, infection rates, and death percentages over time.
 
 The project utilizes data from multiple sources, processed to create meaningful insights for visualizations. These insights can be used to observe trends, compare regions, and visualize the spread of COVID-19 across different countries.
