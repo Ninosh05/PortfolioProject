@@ -1,6 +1,7 @@
 COVID-19 Data Analysis and Visualization
 
 Overview
+
 You can explore the interactive visualizations on Tableau Public here:
 https://public.tableau.com/views/CovidDashboard_17395280985950/Dashboard1?:language=en-US&publish=yes&:sid=6F4A897C346B41A89BD04EA20265074D-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
 
